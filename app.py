@@ -1,4 +1,7 @@
-a=input("name:")
-b=input("last name:")
-print(f"name:{a}")
-print(f"last name:{b}")
+df list_of_pepole():
+count=input("how many people:")
+for i in range(count)
+  a=input("name:")
+  b=input("last name:")
+  print(f"name:{a}")
+  print(f"last name:{b}")
