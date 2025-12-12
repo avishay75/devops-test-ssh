@@ -1,3 +1,4 @@
 a=input("name:")
-b-input(last name:)
-full name:a+b
+b=input("last name:")
+print(f"name:{a}")
+print(f"last name:{b}")
